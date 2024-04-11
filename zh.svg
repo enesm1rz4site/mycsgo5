@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="10px" viewBox="0 0 16 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flag_of_the_People's_Republic_of_China" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#DE2910" x="0" y="0" width="16" height="10"></rect>
+            <g id="s-link" transform="translate(1.000000, 1.000000)" fill="#FFDE00">
+                <polygon id="s" points="1.5 0 2.3816775 2.92225823 0.0734145 1.11620331 2.9265855 1.11620331 0.6183225 2.92225823"></polygon>
+            </g>
+            <g id="s-link" transform="translate(5.000243, 1.000202) rotate(23.036243) translate(-5.000243, -1.000202) translate(4.500243, 0.500202)" fill="#FFDE00">
+                <polygon id="s" points="0.500000393 3.27411726e-07 0.793892893 0.904508827 0.0244718929 0.345491827 0.975528893 0.345491827 0.206107893 0.904508827"></polygon>
+            </g>
+            <g id="s-link" transform="translate(6.000439, 2.000366) rotate(45.869898) translate(-6.000439, -2.000366) translate(5.500439, 1.500366)" fill="#FFDE00">
+                <polygon id="s" points="0.50000943 7.85817883e-06 0.79390193 0.904516358 0.0244809298 0.345499358 0.97553793 0.345499358 0.20611693 0.904516358"></polygon>
+            </g>
+            <g id="s-link" transform="translate(6.000580, 3.500483) rotate(69.945396) translate(-6.000580, -3.500483) translate(5.500580, 3.000483)" fill="#FFDE00">
+                <polygon id="s" points="0.500010248 8.54012615e-06 0.793902748 0.90451704 0.0244817482 0.34550004 0.975538748 0.34550004 0.206117748 0.90451704"></polygon>
+            </g>
+            <g id="s-link" transform="translate(5.000212, 4.500177) rotate(20.659808) translate(-5.000212, -4.500177) translate(4.500212, 4.000177)" fill="#FFDE00">
+                <polygon id="s" points="0.500007153 5.96043924e-06 0.793899653 0.90451446 0.0244786525 0.34549746 0.975535653 0.34549746 0.206114653 0.90451446"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
